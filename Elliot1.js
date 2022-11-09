@@ -69,7 +69,7 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA24stackright.png">',
-        a: ['bait_D', 'stack_S', 'spread_4']
+        a: ['bait_D', 'stack_S', 'spread_3']
     },
     {
         prompt: '<img src="assets/NA24spreadleft.png">',
@@ -117,7 +117,7 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA57stackright.png">',
-        a: ['bait_D', 'stack_S', 'spread_4']
+        a: ['bait_D', 'stack_S', 'spread_3']
     },
     {
         prompt: '<img src="assets/NA57spreadleft.png">',
@@ -133,7 +133,7 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA58stackright.png">',
-        a: ['bait_D', 'stack_S', 'spread_4']
+        a: ['bait_D', 'stack_S', 'spread_3']
     },
     {
         prompt: '<img src="assets/NA58spreadleft.png">',
@@ -149,7 +149,7 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA67stackright.png">',
-        a: ['bait_D', 'stack_S', 'spread_4']
+        a: ['bait_D', 'stack_S', 'spread_3']
     },
     {
         prompt: '<img src="assets/NA67spreadleft.png">',
@@ -165,7 +165,7 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA68stackright.png">',
-        a: ['bait_D', 'stack_S', 'spread_4']
+        a: ['bait_D', 'stack_S', 'spread_3']
     },
     {
         prompt: '<img src="assets/NA68spreadleft.png">',
@@ -181,7 +181,7 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA78stackright.png">',
-        a: ['bait_D', 'stack_S', 'spread_4']
+        a: ['bait_D', 'stack_S', 'spread_3']
     },
     {
         prompt: '<img src="assets/NA78spreadleft.png">',
