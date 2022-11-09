@@ -101,7 +101,7 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA56stackright.png">',
-        a: ['bait_D', 'stack_S', 'spread_4']
+        a: ['bait_D', 'stack_S', 'spread_3']
     },
     {
         prompt: '<img src="assets/NA56spreadleft.png">',
