@@ -113,19 +113,19 @@ var prompts = [
     },
     {
         prompt: '<img src="assets/NA57Fire1.png">',
-        a: ['5']
+        a: ['6']
     },
     {
         prompt: '<img src="assets/NA57Fire2.png">',
-        a: ['5']
+        a: ['6']
     },
     {
         prompt: '<img src="assets/NA57Ice1.png">',
-        a: ['5']
+        a: ['6']
     },
     {
         prompt: '<img src="assets/NA57Ice2.png">',
-        a: ['5']
+        a: ['6']
     },
     {
         prompt: '<img src="assets/NA58Fire1.png">',
